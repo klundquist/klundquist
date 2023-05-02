@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Karl
-- 👀 I’m interested in career opportunities in data science.
+- 👀 I’m passionate about leveraging analytics and ML to extract insights from data.
 
 <!---
 klundquist/klundquist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
