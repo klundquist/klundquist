@@ -1,7 +1,5 @@
-# 👋 Hi, I’m Karl
-- 👀 I’m passionate about leveraging analytics and ML to extract insights from data.
+# Karl Lundquist, Ph.D.
 
-<!---
-klundquist/klundquist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computational biologist and data scientist working at the intersection of physics, biology, and machine learning.
+
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [Email](mailto:klundquist@gmail.com)
